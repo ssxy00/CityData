@@ -13,16 +13,6 @@
 
 + [Beautiful Soup 4.4.0 文档](https://beautifulsoup.readthedocs.io/zh_CN/v4.4.0/)
 
-## 环境
-Python 3.7
-
-```
-bs4
-requests==2.23.0
-lxml==4.5.0
-fonttools==4.4.3
-jsonlines==1.2.0
-```
 
 ## 运行
 运行前请添加 Cookie 信息，指定输出路径，以及检查大众点评当天使用的字体文件
