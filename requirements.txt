@@ -1,6 +1,6 @@
 bs4
 tqdm
-requests==2.23.0
+requests==2.31.0
 lxml==4.5.0
 fonttools==4.4.3
 jsonlines==1.2.0
